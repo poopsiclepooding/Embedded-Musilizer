@@ -9,7 +9,7 @@ Create a music visualizer on an LED ring. Different color patterns are implement
 
 ## Schematic
 
-![Block Diagram](schematic.png.png)
+![Block Diagram](schematic.png)
 *Figure 1: Block Diagram*
 
 ## Working
