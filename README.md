@@ -22,8 +22,3 @@ Create a music visualizer on an LED ring. Different color patterns are implement
 
 - Code Reference: [Music Visualizer](https://www.youtube.com/playlist?list=PLpM-Dvs8t0Vak1rrE2NJn8XYEJ5M7-BqT)
 - Bluetooth Module Reference: [Bluetooth Module](https://github.com/mtayyip/Tiva-C-Series-TM4C123G-LaunchPad-HC06-Bluetooth-Module)
-
-## Members
-
-- Ayush Singhi (210020048)
-- Kushal Mohta (210020023)
